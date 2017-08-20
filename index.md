@@ -1,6 +1,6 @@
 ## Index
 
-- Java Projects
+- [Java Projects] (https://mehakberi.github.io/JavaProjects.md)
 - Website Development
 - Algorithms and Data Structures
 - Operating Systems

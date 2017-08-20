@@ -1,5 +1,12 @@
-## Welcome to Mehak's blog!
+## Index
 
+1. Java Projects
+2. Website Development
+3. Algorithms and Data Structures
+4. Operating Systems
+
+
+##For reference 
 You can use the [editor on GitHub](https://github.com/MehakBeri/mehakberi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

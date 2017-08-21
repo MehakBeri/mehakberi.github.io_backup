@@ -15,7 +15,7 @@ The following functionality is implemented:
 - Easily and intelligently handles the use of multiple address books (multiple files)
 - Ability to move an entry from one address book to another.
 
-Here is the Github repo for this project.
+[Here](https://github.com/MehakBeri/Address-Book-in-Java) is the Github repo for this project.
 
 ### Nim Game
 Nim is a strategy game between two players. This project implements the Nim game between a player and an intelligent computer.
@@ -27,7 +27,7 @@ Following are the rules for the Nim game:
 - Player #1 plays again. (It's okay to choose a different pile this time.)
 - Whichever player is forced to take the last counter is the LOSER.
 
-Here is the Github repo for this project.
+[Here](https://github.com/MehakBeri/Nim-Game-in-Java) is the Github repo for this project.
 
 ### Black Jack
 Program that allows a human user to play a simplified version of Blackjack against a computer opponent. The rules are as follows:
@@ -41,11 +41,11 @@ Program that allows a human user to play a simplified version of Blackjack again
 - If the dealer busts, the player automatically wins.
 - Assuming no one has busted, the player with the highest total wins. Dealer wins all ties.
 
-Here is the Github repo for this project.
+[Here](https://github.com/MehakBeri/Blackjack-in-Java) is the Github repo for this project.
 
 ### Tic Tac Toe
 An interactive two player game of tic tac toe implemented in Java.
-Here is the Github repo for this project.
+[Here](https://github.com/MehakBeri/Tic-tac-toe-in-java) is the Github repo for this project.
 
 ### Hangman
 An interactive word-guessing game with the following rules:
@@ -54,6 +54,6 @@ An interactive word-guessing game with the following rules:
 - It must give them limited tries and stop after they run out.
 - It must display letters they have already guessed (either only the incorrect guesses or all guesses).
 
-Here is the Github repo for this project.
+[Here](https://github.com/MehakBeri/Hangman-in-java) is the Github repo for this project.
 
 #### Graphic java projects in progress

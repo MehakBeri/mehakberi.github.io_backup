@@ -4,9 +4,9 @@ You can find my detailed work experience and skillset in my [resume](MehakBeri_R
 
 ## Index
 
+- [Data Science](https://github.com/MehakBeri/Data-Science)
 - [Java Projects](JavaProjects.md)
 - [Website Development](webdev.md)
-- [Data Science](https://github.com/MehakBeri/Data-Science)
 - [Algorithms and Data Structures](algo.md)
 - [Operating Systems](os.md)
 

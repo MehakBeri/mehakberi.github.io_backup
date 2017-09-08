@@ -17,4 +17,7 @@ Below is a short compilation of my projects and what I learnt from them:
 ## Contact
 
 mehak.beri@utdallas.edu
+
 https://www.linkedin.com/in/mehakberi/
+
+Current Location: Dallas, TX, USA

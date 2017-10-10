@@ -7,11 +7,15 @@ Below is a short compilation of my projects and what I learnt from them:
 
 ## Index
 
+- [Natural Language Processing](nlp.md)
+- [Database Design](db.md)
+- [Node Projects](node.md)
+- [Algorithms and Data Structures](algo.md)
+- [Operating Systems](os.md)
 - [Data Science-Mini Project](https://github.com/MehakBeri/Data-Science)
 - [Java Projects](JavaProjects.md)
 - [Website Development](webdev.md)
-- [Algorithms and Data Structures](algo.md)
-- [Operating Systems](os.md)
+
 
 ## Contact
 

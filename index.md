@@ -12,7 +12,7 @@ Below is a short compilation of my projects and what I learnt from them:
 - [Node Projects](node.md)
 - [Algorithms and Data Structures](algo.md)
 - [Operating Systems](os.md)
-- [Data Science-Mini Project](https://github.com/MehakBeri/Data-Science)
+- [Data Science-Mini Project](datascience.md)
 - [Java Projects](JavaProjects.md)
 - [Website Development](webdev.md)
 

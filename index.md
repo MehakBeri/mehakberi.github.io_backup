@@ -7,6 +7,7 @@ Below is a short compilation of my projects and what I learnt from them:
 
 ## Index
 
+- [Flutter](Flutter.md)
 - [Natural Language Processing](nlp.md)
 - [Database Design](db.md)
 - [Node Projects](node.md)

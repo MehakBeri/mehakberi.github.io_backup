@@ -7,14 +7,15 @@ Below is a short compilation of my projects and what I learnt from them:
 
 ## Index
 
-- [Flutter](Flutter.md)
-- [Natural Language Processing](nlp.md)
-- [Database Design](db.md)
-- [Node Projects](node.md)
 - [Algorithms and Data Structures](algo.md)
-- [Operating Systems](os.md)
+- [Android Projects](android.md)
+- [Database Design](db.md)
 - [Data Science](datascience.md)
+- [Flutter](Flutter.md)
 - [Java Projects](JavaProjects.md)
+- [Natural Language Processing](nlp.md)
+- [Node Projects](node.md)
+- [Operating Systems](os.md)
 - [Website Development](webdev.md)
 
 

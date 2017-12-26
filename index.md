@@ -18,6 +18,8 @@ Below is a short compilation of my projects and what I learnt from them:
 - [Operating Systems](os.md)
 - [Website Development](webdev.md)
 
+- [Just for Fun](fun.md)
+
 
 ## Contact
 

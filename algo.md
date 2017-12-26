@@ -9,3 +9,5 @@ I took the [Algorithms and Data Structures](https://github.com/MehakBeri/Algorit
 - [Traversal: DFS and BFS](https://github.com/MehakBeri/Algorithms-and-Data-Structures/tree/master/assign4-Traversal%20DFS%20and%20BFS)
 - [Maximum Spanning Tree using Kruskal's Algorithm](https://github.com/MehakBeri/Algorithms-and-Data-Structures/tree/master/assign5-Maximum%20Spanning%20Tree%20using%20Kruskal's%20Algorithm)
 - [Hash Table Implementation](https://github.com/MehakBeri/Algorithms-and-Data-Structures/tree/master/assign6-Hash%20Table%20Implementation)
+- [Find longest common subsequence](https://github.com/MehakBeri/longestCommon)
+- [Algorithm Data Str Coding Practice](https://github.com/MehakBeri/Algorithms-DataStructures)

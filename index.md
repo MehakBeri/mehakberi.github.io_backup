@@ -1,13 +1,24 @@
 ## About Me
-Hi! I am Mehak Beri, a Machine Learning Intern at Samsung Austin R&D Center, as well as a Computer Science MS student at The University of Texas at Dallas. I am passionate about data, crazy hacks to solve impossible problems and the subtle art of visualization. 
+Jack of all trades and master of some, I am MS in Computer Science from University of Texas at Dallas and I harbor a deep interest in Machine Learning, Data Science and Deep Learning. I am a leader by nature and absolutely enjoy learning!
 
-I have two international publications to my credit, one of which features in [IEEE Xplore](http://ieeexplore.ieee.org/document/7238520/?reload=true). I am a creative person and have had an experience of working in an Indian IT company called Gemini Solutions, as a software developer and an Experiential Instructor. I am a NI [certified LABVIEW associate developer](https://www.youracclaim.com/badges/c6a933f3-0cd1-47f9-9b13-39095aa577af) as well. I am a developer, a teacher, a writer, a researcher, a leader and most importantly a verocious learner. 
+I am currently working as a Machine Learning Engineer at Samsung Austin Research Center and am actively looking for job opportunities.
 
-Please feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/mehakberi/) and/or my [handshake profile](https://utdallas.joinhandshake.com/users/10513311). Also, [here](https://drive.google.com/file/d/1iaQTtX9Spm_EYP1nGDlce24u24K7rP_M/view) is my resume for your kind perusal.
+What I bring to the table :
+- Proven ability to lead and solve challenges
+- A research oriented, creative problem solver.  Author of two international research papers, one of which features in IEEE Xplore
+- A solid educational foundation in ML, NLP, Deep Learning, Algorithmic and Database Design
+- Proficiency in Python and comfortable with Java, JavaScript, SQL, MongoDB, Flask, Dash
+- Strong command line skills for working within virtualized machines (bash, vim)
+- Experience with tools like WEKA, TensorFlow, Keras, numpy, NLTK, pandas, scikit-learn, Jupyter
+- Experience with distributed version control like Git, as well as Agile and Scrum methodology
+- A proven ability to build rapport with individuals from all backgrounds
 
-Below is a short compilation of my projects and what I learnt from them:
+I pride myself on being a fast learner willing to innovate, propose process improvement,  and in meeting deadlines besides being a responsible person. The recommendations that I have received from my managers and co-workers is a testimony to my work ethic.
+Please feel free to check out the recommendations I have recieved for my work on my [LinkedIn profile](https://www.linkedin.com/in/mehakberi/) along with a detailed overview of my coursework, project collaborations and experiences.
 
-## Index
+## [Detailed Resume](Resume-detailed-oct21'19.pdf)
+
+## Other Projects
 
 - [Machine Learning](ml.md)
 - [Algorithms and Data Structures](algo.md)
@@ -25,7 +36,7 @@ Below is a short compilation of my projects and what I learnt from them:
 
 ## Contact
 
-mehak.beri@utdallas.edu
+mehakberi1996@gmail.com
 
 https://www.linkedin.com/in/mehakberi/
 

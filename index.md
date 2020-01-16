@@ -16,7 +16,7 @@ What I bring to the table :
 I pride myself on being a fast learner willing to innovate, propose process improvement,  and in meeting deadlines besides being a responsible person. The recommendations that I have received from my managers and co-workers is a testimony to my work ethic.
 Please feel free to check out the recommendations I have recieved for my work on my [LinkedIn profile](https://www.linkedin.com/in/mehakberi/) along with a detailed overview of my coursework, project collaborations and experiences.
 
-## [Detailed Resume](Resume-detailed-oct21'19.pdf)
+
 
 ## Other Projects
 
